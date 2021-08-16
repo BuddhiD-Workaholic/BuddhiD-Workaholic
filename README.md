@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BuddhiD-Workaholic
-- 👀 I’m interested in ...
+- 👀 I’m interested in enhancing my knowledge and experience whilst making a committed contribution to a company within my interests.
 - 🌱 I’m I am currently pursuing higher studies and enrolled for a BSC in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT).
 - 💞️ I’m looking to collaborate on different projects that I'm intereseted in!
 - 📫 Reach me on: 
