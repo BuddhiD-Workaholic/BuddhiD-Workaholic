@@ -5,6 +5,7 @@
 - 📫 Reach me on: 
 -                 Outlook - buddhi_dhananjaya@outlook.com
 -                 Linkedin - https://bit.ly/Linkedin-BuddhiD
+-                 Curriculum Vitae - https://bit.ly/BuddhisCV
 
 <!---
 BuddhiD-Workaholic/BuddhiD-Workaholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
