@@ -5,9 +5,9 @@
 - 🌱 I am currently pursuing higher studies and enrolled for a BSC in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT).
 - 💞️ I’m looking to collaborate on different projects that I'm intereseted in!
 - 📫 Reach me on: 
-                  Email - buddhid.jaya@gmail.com
-                  Linkedin - https://bit.ly/Linkedin-BuddhiD
-                  Curriculum Vitae - https://bit.ly/BuddhisCV
+-                  Email - buddhid.jaya@gmail.com
+-                  Linkedin - https://bit.ly/Linkedin-BuddhiD
+-                  Curriculum Vitae - https://bit.ly/BuddhisCV
 <br/>
 <p align="left">
 <a href="https://bit.ly/Linkedin-BuddhiD"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
