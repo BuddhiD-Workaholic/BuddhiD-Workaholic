@@ -1,4 +1,4 @@
-## @BuddhiD-Workaholic
+## BuddhiD-Workaholic
 
 - 👋 Hi, I’m @BuddhiD-Workaholic
 - 👀 I’m interested in enhancing my knowledge and experience whilst making a committed contribution to a company within my interests.
@@ -16,7 +16,8 @@
 <a href="https://bit.ly/BuddhisCV"><img src="https://img.shields.io/badge/CV-Buddhi%20Dhananajaya-red?style=for-the-badge"/></a>
 </p>
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BuddhiD-Workaholic.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BuddhiD-Workaholic.BuddhiD-Workaholic)
 <br>
 <h3 align="left">Statistics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=BuddhiD-Workaholic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
