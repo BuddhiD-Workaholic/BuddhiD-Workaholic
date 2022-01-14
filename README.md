@@ -16,8 +16,8 @@
 <a href="https://bit.ly/BuddhisCV"><img src="https://img.shields.io/badge/CV-Buddhi%20Dhananajaya-red?style=for-the-badge"/></a>
 </p>
 <h3 align="left">Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=BuddhiD-Workaholic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuddhiD-Workaholic&" alt="srvsaha" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=BuddhiD-Workaholic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuddhiD-Workaholic&" alt="srvsaha" /></p>
 <!---
 BuddhiD-Workaholic/BuddhiD-Workaholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
