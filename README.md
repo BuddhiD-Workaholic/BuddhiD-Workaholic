@@ -8,6 +8,8 @@
 -                  Email - buddhid.jaya@gmail.com
 -                  Linkedin - https://bit.ly/Linkedin-BuddhiD
 -                  Curriculum Vitae - https://bit.ly/BuddhisCV
+-                  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BuddhiD-Workaholic.visitor-badge)
 
 <p align="left">
 <a href="https://bit.ly/Linkedin-BuddhiD"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
