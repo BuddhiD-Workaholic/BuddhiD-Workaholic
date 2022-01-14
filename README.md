@@ -17,7 +17,6 @@
 </p>
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BuddhiD-Workaholic.visitor-badge)
 <br/>
 <h3 align="left">Statistics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=BuddhiD-Workaholic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
