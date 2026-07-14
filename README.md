@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on different projects that I'm intereseted in!
 - 📫 Reach me on: 
 -                  Email - buddhid.jaya@gmail.com
--                  Linkedin - [https://bit.ly/Linkedin-BuddhiD](https://www.linkedin.com/in/buddhid-jaya/)
+-                  Linkedin - https://www.linkedin.com/in/buddhid-jaya
                 
 <p align="left">
 <a target="_blank" href="https://bit.ly/Linkedin-BuddhiD"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
